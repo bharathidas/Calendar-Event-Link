@@ -2,9 +2,10 @@
 This Module helps to generate an event link for Google Calendar, Yahoo, Calendar, Microsoft Outlook.
 
 **Dependencies:**
-• Mendix Studio Pro 11.12.1 — `CalendarEventLink_1.2.0_Mx11.12.1.mpk` (release V3.0.0)
-• Mendix Studio Pro 10.24.17 — `CalendarEventLink_1.1.0_Mx10.24.17.mpk` (release V2.0.0)
-• Mendix modeler 9.12.4 — `CalendarEventLink.mpk` (release V1.0.0)
+Every release ships the module as `CalendarEventLink.mpk`. Where a version-tagged copy sits beside it, that is the same package under a longer name.
+• Mendix Studio Pro 11.12.1 — release V3.0.0 (also `CalendarEventLink_1.2.0_Mx11.12.1.mpk`)
+• Mendix Studio Pro 10.24.17 — release V2.0.0 (also `CalendarEventLink_1.1.0_Mx10.24.17.mpk`)
+• Mendix modeler 9.12.4 — release V1.0.0
 
 **Features**
 **Title**: Event Title
